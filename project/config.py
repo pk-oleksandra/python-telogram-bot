@@ -1,2 +1,2 @@
 BOT_TOKEN = "8165258753:AAFEzZZztzQXl1vQwvCrLYBiwF2OQhSKLYI"
-DB_NAME= 'notebook.db'
+DB_NAME = 'notebook.db'
